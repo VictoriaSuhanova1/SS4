@@ -1,0 +1,17 @@
+start
+
+new a number
+new b number
+
+set a 2
+set b 2
+
+loop ddd (b > 1)
+   set a a + a
+end ddd
+
+set a a + d
+
+log number a
+
+finish
